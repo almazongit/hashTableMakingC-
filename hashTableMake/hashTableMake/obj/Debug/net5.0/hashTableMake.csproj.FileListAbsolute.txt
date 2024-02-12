@@ -1,0 +1,16 @@
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\bin\Debug\net5.0\hashTableMake.exe
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\bin\Debug\net5.0\hashTableMake.deps.json
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\bin\Debug\net5.0\hashTableMake.runtimeconfig.json
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\bin\Debug\net5.0\hashTableMake.runtimeconfig.dev.json
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\bin\Debug\net5.0\hashTableMake.dll
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\bin\Debug\net5.0\ref\hashTableMake.dll
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\bin\Debug\net5.0\hashTableMake.pdb
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\hashTableMake.csproj.AssemblyReference.cache
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\hashTableMake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\hashTableMake.AssemblyInfoInputs.cache
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\hashTableMake.AssemblyInfo.cs
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\hashTableMake.csproj.CoreCompileInputs.cache
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\hashTableMake.dll
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\ref\hashTableMake.dll
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\hashTableMake.pdb
+C:\Users\almaz\source\repos\hashTableMake\hashTableMake\obj\Debug\net5.0\hashTableMake.genruntimeconfig.cache
